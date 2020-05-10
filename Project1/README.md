@@ -6,7 +6,7 @@
 #### 数据集
 1. 综合类中文词库.xlsx： 包含了中文词，当做词典来用 （用于PART1)
 2. dev-v2.0.json: 这个数据包含了问题和答案的pair， 但是以JSON格式存在，需要编写parser来提取出里面的问题和答案。 (用于PART2) 
-3. glove.6B: 这个文件需要从网上下载，下载地址为：https://nlp.stanford.edu/projects/glove/， 请使用d=100的词向量 (用于PART3)
+3. glove.6B: 这个文件需要从网上下载，下载地址为：https://nlp.stanford.edu/projects/glove/，下载慢的可以用网盘链接:https://pan.baidu.com/s/1NFinXCHleAtof8bSTQ8evg 提取码:mrcq。请使用d=100的词向量 (用于PART3)
 
 #### 环境：
 Python 3 (必须要使用Python 3)
